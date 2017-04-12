@@ -1,0 +1,31 @@
+/* Acá pondré mis ajustes */
+body{background:rgba(0,128,0,0.4); padding-top:50px;}
+aside{background:rgba(192,192,192,0.6);}
+
+::selection{
+  background-color:rgba(255,155,0,.9);
+}
+
+header {
+font-family: 'Anton', sans-serif;
+}
+
+section {
+font-family: 'PT Sans Narrow', sans-serif;
+}
+
+aside {
+font-family: 'Oswald', sans-serif;
+}
+
+footer {
+  font-family: 'Anton', sans-serif;
+}
+
+img{max-width:20%;height: auto;}
+
+img.fotofutbol{max-width:115%;height: auto;}
+
+img.fotorun{max-width:115%;height: auto;}
+
+img.fotonata{max-width:115%;height: auto;}
